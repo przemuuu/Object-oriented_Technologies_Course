@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.school.SchoolClassTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-11-19T21:16:38" hostname="LAPTOP-M66D72PU" time="0.207">
+  <properties/>
+  <testcase name="testMeetSearchCriteria()" classname="pl.edu.agh.school.SchoolClassTest" time="0.165"/>
+  <testcase name="testMeetSearchCriteriaDoesNotMeet()" classname="pl.edu.agh.school.SchoolClassTest" time="0.006"/>
+  <testcase name="testNameAndProfile()" classname="pl.edu.agh.school.SchoolClassTest" time="0.005"/>
+  <testcase name="testAddStudent()" classname="pl.edu.agh.school.SchoolClassTest" time="0.011"/>
+  <testcase name="testAddSubject()" classname="pl.edu.agh.school.SchoolClassTest" time="0.006"/>
+  <testcase name="testSchedule()" classname="pl.edu.agh.school.SchoolClassTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

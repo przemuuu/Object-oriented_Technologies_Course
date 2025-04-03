@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.school.MarkTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-19T21:16:38" hostname="LAPTOP-M66D72PU" time="0.002">
+  <properties/>
+  <testcase name="testMark()" classname="pl.edu.agh.school.MarkTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

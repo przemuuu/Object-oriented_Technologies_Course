@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.school.StudentTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-11-19T21:16:39" hostname="LAPTOP-M66D72PU" time="0.035">
+  <properties/>
+  <testcase name="testGetName()" classname="pl.edu.agh.school.StudentTest" time="0.028"/>
+  <testcase name="testGetSchedule()" classname="pl.edu.agh.school.StudentTest" time="0.004"/>
+  <testcase name="testSetSchoolClass()" classname="pl.edu.agh.school.StudentTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
